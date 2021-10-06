@@ -2,8 +2,8 @@
 main:
   - title: "sang9390 github"
     url: https://github.com/sang9390
-  # - title: "Introduce"
-  #   url: /about/
+  - title: "Home"
+    url: https://sang9390.github.io/
   # - title: "Category"
   #   url: /categories/
   # - title: "Sample Collections"
