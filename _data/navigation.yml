@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "sang9390 github"
+  - title: "github page"
     url: https://github.com/sang9390
   - title: "Home"
     url: https://sang9390.github.io/
-  # - title: "Category"
-  #   url: /categories/
+  - title: "Category"
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
