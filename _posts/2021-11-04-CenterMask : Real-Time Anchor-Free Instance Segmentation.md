@@ -36,7 +36,7 @@ Mask R-CNN기반의 instance segmentation task 모델은 inference speed를 높�
 
 #### 2. Unique methology  
 
-CenterMask에서 inference speed와 정확도를 높이는 key idea는 크게 세가지이다. 
+CenterMask에서 inference speed와 정확도를 높이는 key idea는 크게 세 가지이다. 
 
 + FCOS방법을 통한 anchor-free instance segmentation
 
