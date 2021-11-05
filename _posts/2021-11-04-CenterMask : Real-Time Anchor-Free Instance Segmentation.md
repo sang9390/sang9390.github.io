@@ -26,7 +26,7 @@ categories:
 
 Mask R-CNN기반의 instance segmentation task 모델은 inference speed를 높이는 연구가 많이 진행되었다.
 
-이러한 연구중 real-time one-stage instance segmentation의 특징을 가지는 YOLACT model이 개발되었다.
+이러한 inference speed를 높이는 연구중 real-time one-stage instance segmentation의 특징을 가지는 YOLACT model이 개발되었다.
 
 그러나 YOLACR는 Mask R-CNN에 비하여 inference speed는 매우 빠르지만 정확도가 크게 떨어지는 모습을 보여주었다.
 
