@@ -1,5 +1,5 @@
 ---
-date: 2021-10-14
+date: 2021-11-04
 title: "[Paper Review] CenterMask : Real-Time Anchor-Free Instance Segmentation (CVPR_2020)"
 categories: 
 - Paper review
@@ -88,4 +88,4 @@ Fig. 4: CenterMask의 출력 이미지
 
 Mask R-CNN기반의 2-stage detector 이지만 1-stage detector 만큼의 inference speed를 보여줌 
 
-효율적인 backbone 을 이용하여 resnet backbone보다 적은 parameters로 높은 AP 성능지표를 
+효율적인 backbone 을 이용하여 resnet backbone보다 적은 parameters로 높은 AP 성능지표를 보임
