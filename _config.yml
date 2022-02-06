@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Sangjin-Lee"
+  avatar           : "https://user-images.githubusercontent.com/76807432/152673491-2b43c9ea-2b4b-4c44-92e7-2fed94413a0f.PNG"
+  bio              : "상황을 탓하지 말고, 긍정적으로 살아가자"
+  location         : "Korea"
+  email            : 20151709@edu.hanbat.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
