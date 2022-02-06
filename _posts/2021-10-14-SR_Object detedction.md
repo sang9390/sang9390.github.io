@@ -1,7 +1,7 @@
 ---
 date: 2021-10-14
 title: "[Paper Review] 객체 인식 정확도 개선을 위한 이미지 초해상도 기술 (한국정보통신학회논문지_2021)"
-categories: [Paper review]
+categories: [Paper_review]
 ---
 
 
