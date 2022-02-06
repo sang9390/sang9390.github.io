@@ -1,8 +1,7 @@
 ---
 date: 2021-11-04
 title: "[Paper Review] CenterMask : Real-Time Anchor-Free Instance Segmentation (CVPR_2020)"
-categories: 
-- Paper review
+categories: [Paper review]
 ---
 
 
