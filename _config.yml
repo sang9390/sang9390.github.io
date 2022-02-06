@@ -20,7 +20,7 @@ title                    : "개발도상진"
 title_separator          : "-"
 subtitle                 : "Version 1.0"# site tagline that appears below site title in masthead
 name                     : "이상진"
-description              : "딥러닝 공부하는 청년"
+description              : "딥러닝 공부중..."
 url                      : "sang9390.github.io"# the base hostname & protocol for your site e.g. 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sang9390/sang9390.github.com"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
