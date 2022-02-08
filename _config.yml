@@ -41,9 +41,6 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    src                  : "https://utteranc.es/client.js"
-    repo                 : "sang9390/comments"
-    crossorigin          : "anonymous"
     theme                : "github-light" #org
     issue_term           : "pathname"     #org
   giscus:
