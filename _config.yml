@@ -30,7 +30,7 @@ masthead_title           : "개발도상진" # overrides the website title displ
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false(default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "utterances"
   disqus:
     shortname            : #sang9390-github-io
   discourse:
