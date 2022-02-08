@@ -41,8 +41,11 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-light"
-    issue_term           : "pathname"
+    src                  : "https://utteranc.es/client.js"
+    repo                 : "sang9390/comments"
+    crossorigin          : "anonymous"
+    theme                : "github-light" #org
+    issue_term           : "pathname"     #org
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
