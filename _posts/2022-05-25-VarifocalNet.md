@@ -20,9 +20,9 @@ comments: true
 
 
 
-dense object detector가 고성능을 달성하기 위해 요구되는 것 중 하나는 많은 양의 candidate detaction에 대한 정확한 ranking을 매기는 것이다.
+dense object detector가 고성능을 달성하기 위해 요구되는 것 중 하나는 많은 양의 candidate detaction에 대한 정확한 ranking을 결정하는 것이다.
 
-prior work에서는 classification score 또는 combination of classification and predicted localization score를 통해 ranking을 매긴다.
+prior work에서는 classification score 또는 combination of classification and predicted localization score를 통해 ranking을 결정한다.
 
 그러나 두가지 option은 reliable할 수 있는 rank가 아니다. 따라서 detection 성능이 저하된다.
 
@@ -67,4 +67,4 @@ Table 4: SOTA methods와 VFNet간의 AP score comparison(COCO test-dev)
 
 
 
-candidate detaction에 대한 보다 정확한 ranking을 통해 큰 성능 향상을 이끌어냄(다양한 object detector에 적용 가능)
+candidate detection에 대한 보다 정확한 ranking을 통해 큰 성능 향상을 이끌어냄(다양한 object detector에 적용 가능)
