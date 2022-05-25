@@ -20,7 +20,7 @@ comments: true
 
 
 
-dense object detector가 고성능을 달성하기 위해 요구되는 것 중 하나는 많은 양의 candidate에 대한 정확한 ranking을 매기는 것이다.
+dense object detector가 고성능을 달성하기 위해 요구되는 것 중 하나는 많은 양의 candidate detaction에 대한 정확한 ranking을 매기는 것이다.
 
 prior work에서는 classification score 또는 combination of classification and predicted localization score를 통해 ranking을 매긴다.
 
